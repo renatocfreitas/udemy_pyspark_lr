@@ -16,11 +16,13 @@ Jupyter source code:
 
 - Lesson_Data_Transformation.ipynb
 - Linear_Regression_Example.ipynb
+- Linear_Regression_Code_Along.ipynb
 
 Data sources:
 
 - fake_customers.csv
 - sample_linear_regression_data.txt
+- Ecommerce_Customers.csv
 
 ### Running projects
 
