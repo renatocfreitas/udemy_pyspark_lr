@@ -7,7 +7,7 @@ Udemy Spark and Python for Big Data with PySpark Course - Instructor Jose Portil
 This project requires:
 
 - [Python 3](https://www.python.org/download/)
-- [Pandas](http://pandas.pydata.org/)
+- [Spark] (http://spark.apache.org/downloads.html)
 - [Jupyter Notebook](https://jupyter.org/)
 
 ### Code
